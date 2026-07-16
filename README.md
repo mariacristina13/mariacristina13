@@ -59,7 +59,7 @@ Aspiring software engineer and data scientist passionate about using code to mak
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mariacristina13&bg_color=00000000&color=65a30d&line=65a30d&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="1050" height="600" alt="If you learn how to solve problems, you can go through life and do pretty well" src="https://github.com/user-attachments/assets/b47d9cb6-99a7-4ab8-b228-9ecbd5e8a556" />
 </p>
 
 ### 💭 Dev Quote
