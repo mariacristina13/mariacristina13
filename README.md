@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"
   <a href="https://github.com/mariacristina13">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=65a30d&fontSize=54&height=90&width=506&text=Hi!%20I'm%20Maria" alt="Hi! I&#39;m Maria" />
   </a>
