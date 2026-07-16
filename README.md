@@ -64,7 +64,7 @@ Aspiring software engineer and data scientist passionate about using code to mak
 
 ### 💭 Dev Quote
 
-<img width="1050" height="600" alt="If you learn how to solve problems, you can go through life and do pretty well" src="https://github.com/user-attachments/assets/efccb78f-a1bb-4e86-83f1-0627f3df6224" />
+<img width="700" height="400" alt="If you learn how to solve problems, you can go through life and do pretty well" src="https://github.com/user-attachments/assets/efccb78f-a1bb-4e86-83f1-0627f3df6224" />
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/mariacristina13">mariacristina13</a></i></p>
