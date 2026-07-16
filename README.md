@@ -65,7 +65,7 @@ Aspiring software engineer and data scientist passionate about using code to mak
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  If you learn how to solve problems, you can go through life and do pretty well. - Gary Kildall
 </p>
 
 ---
