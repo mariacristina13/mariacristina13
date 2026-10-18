@@ -12,7 +12,7 @@
 
 Aspiring software engineer and data scientist passionate about using code to make a real difference. I love turning raw data into insights that matter, and I'm especially drawn to projects that bring awareness to social and environmental issues. Always learning,  building, and looking for ways tech can do some good in the world.
 
-🔭 &nbsp;I'm currently working on **creating a financial app with AI insights.**  
+🔭 &nbsp;I'm currently working on **creating a website to bring awareness to the aromanian (vlach) heritage.**  
 🌱 &nbsp;I'm currently learning **Python and Data Science**  
 ⚡ &nbsp;Fun fact: **I once worked on a project from the hospital.**
 
